@@ -43,7 +43,6 @@ body {
   padding: 0 var(--spacing-md);
 }
 
-/* Hero Section */
 .hero {
   min-height: 90vh;
   display: flex;
@@ -200,7 +199,6 @@ body {
   color: var(--color-text-muted);
 }
 
-/* Section Styles */
 section {
   padding: var(--spacing-3xl) 0;
 }
@@ -308,7 +306,6 @@ section {
   line-height: 1.7;
 }
 
-/* Impact Section */
 .impact {
   background-color: var(--color-background);
 }
@@ -379,7 +376,6 @@ section {
   opacity: 0.9;
 }
 
-/* Animals Section */
 .animals {
   background-color: var(--color-card);
 }
@@ -437,7 +433,6 @@ section {
   line-height: 1.6;
 }
 
-/* Help Section */
 .help {
   background-color: var(--color-background);
 }
@@ -497,7 +492,6 @@ section {
   line-height: 1.7;
 }
 
-/* Contact Section */
 .contact {
   background-color: var(--color-card);
 }
@@ -600,7 +594,6 @@ section {
   height: 1.5rem;
 }
 
-/* Footer */
 .footer {
   background-color: var(--color-text);
   color: white;
@@ -637,7 +630,6 @@ section {
   color: var(--color-primary);
 }
 
-/* Smooth Scrolling */
 html {
   scroll-behavior: smooth;
 }
